@@ -1,0 +1,1 @@
+start LuaSTG-x.exe "start_game=true; is_debug=true; skip_menu=true;"
